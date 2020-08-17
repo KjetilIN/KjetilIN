@@ -7,11 +7,7 @@ About me:
 
 My languages:
 - Python 
-# python_logo
 - C++ 
-# cpp_logo 
-
-
-
+ 
 I am also active on Hackerrank:
 https://www.hackerrank.com/kjetilindrehus
