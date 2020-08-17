@@ -1,8 +1,5 @@
 Hi
 
-<!--
-**KjetilIN/KjetilIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 About me:
 * High school student 
 * New to programming as of 2020 
