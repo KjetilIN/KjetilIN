@@ -6,14 +6,19 @@ About me:
 * Problemsolver / Cp
 
 My languages:
-- Python 
-- C++ 
+- Python // Intermediate
+<br>
+<img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
+
+- C++ // Beginner
+<br>
+<img align="left" alt="C++" width="100px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
 Other tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br>
-<br>
+
 <br>
  
 I am also active on Hackerrank:
