@@ -6,13 +6,18 @@ About me:
 * Problemsolver / Cp
 
 My languages:
-- Python // Intermediate
+* Python // Intermediate
 <br>
 <img align="left" alt="Python" width="300px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
 <br>
 <br>
 <br>
-- C++ // Beginner
+<br>
+<br>
+<br>
+
+* C++ // Beginner
+
 <br>
 <br>
 <br>
