@@ -12,14 +12,8 @@ My languages:
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 * C++ // Beginner
-
-<br>
-<br>
 <br>
 <img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <br>
