@@ -8,7 +8,7 @@ About me:
 My languages:
 * Python // Intermediate
 <br>
-<img align="left" alt="Python" width="300px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
+<img align="left" alt="Python" width="100px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />
 <br>
 <br>
 <br>
@@ -21,7 +21,7 @@ My languages:
 <br>
 <br>
 <br>
-<img align="left" alt="C++" width="100px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <br>
 <br>
 <br>
