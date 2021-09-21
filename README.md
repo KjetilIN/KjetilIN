@@ -1,13 +1,13 @@
 Hi
 
 About me:
-* High school student 
-* New to programming as of 2020 
+* Studying at NTNU in Gjøvik (Computer Engineer, Batchelor)
 * Problemsolver / Cp
 
 My languages:
-* Python // Intermediate
-* C++ // Beginner
+* Python 
+* Java 
+* C++ 
 <br>
 Other tools:
 
