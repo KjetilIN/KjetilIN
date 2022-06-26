@@ -6,32 +6,9 @@ I'm Kjetil Indrehus!
 - <i>Currently:</i> Computer Engineer at NTNU Gjøvik. 
 - <i>Previously:</i> High School Student.
 
-<h2>💻 I'm Currently Learning</h2>
 
 
-<details>
-  <summary>NTNU Courses</summary>
-  <p>
-    💻Currently Learing:
-
-  - IMAG2021 Mathematical methods for Cumputer Engineering
-  - IDATG1002 Software Engineering
-  - IDATG2001 Programming 2
-
-
-  _👨‍🎓Previously:_
-
-  - IMAG1001 Mathematical methods 1
-  - IDATG1001 Programming 1
-  - INGG1001 Engineering introductory course
-  </p>
- 
-</details>
-
-
-
-
-[Link to the syllabus here!](https://www.ntnu.no/studier/bidata/cybersikkerhet)
+[Link to the NTNU syllabus!](https://www.ntnu.no/studier/bidata/cybersikkerhet)
 
 ### Skills
 
