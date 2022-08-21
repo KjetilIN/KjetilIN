@@ -1,6 +1,6 @@
 <h2>Hey! 👋</h2>
 
-<img style="width: 25%;height: 25%;" align="right" src="https://user-images.githubusercontent.com/66110094/154349210-f61797aa-4dd2-4544-9e0f-af8c62a3a8aa.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
+<img style="width: 40%;height: 40%;" align="right" src="https://user-images.githubusercontent.com/66110094/154349210-f61797aa-4dd2-4544-9e0f-af8c62a3a8aa.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
 
 I'm Kjetil Indrehus! 
 - <i>Currently:</i> Computer Engineer at NTNU Gjøvik. 
@@ -27,7 +27,7 @@ I'm Kjetil Indrehus!
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KjetilIN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KjetilIN&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![Kjetil's GitHub stats](https://github-readme-stats.vercel.app/api?username=KjetilIN&count_private=true&show_icons=true&theme=react&hide=stars&include_all_commits=true)
 
 
 <h2>📫 How to reach me:</h2>
