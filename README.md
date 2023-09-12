@@ -10,7 +10,7 @@ I'm Kjetil Indrehus!
 [Link to the NTNU syllabus!](https://www.ntnu.no/studier/bidata/cybersikkerhet)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KjetilIN&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-weld.vercel.app?user=KjetilIN&theme=black-ice)](https://git.io/streak-stats)
 
 
 <!-- Used: https://www.profileme.dev/ --> 
