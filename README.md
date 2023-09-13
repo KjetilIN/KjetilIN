@@ -7,7 +7,7 @@ I'm Kjetil Indrehus!
 
 
 <!-- Start Gjøvik -->
-### IT Leader/ CTO , Start Gjøvik
+### IT Leader / CTO, Start Gjøvik
 <img align="left" width="50" height="50" src="https://media.licdn.com/dms/image/C4D0BAQEW8VtT6ivypA/company-logo_200_200/0/1651443924323?e=1702512000&v=beta&t=u_rcUlYyJ0CvqL1gcM1a1V1kLmz5kJJvkGxXIzSgNiU" alt="Start Gjøvik Logo">
 
 **Duration:** June,2023 ➡️ _now_ <br>
