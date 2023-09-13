@@ -7,10 +7,10 @@ I'm Kjetil Indrehus!
 
 
 <!-- Start Gjøvik -->
-### IT Leader/ CTO , Start Gjøvik, 2023 ➡️ _now_
+### IT Leader/ CTO , Start Gjøvik
 <img align="left" width="50" height="50" src="https://media.licdn.com/dms/image/C4D0BAQEW8VtT6ivypA/company-logo_200_200/0/1651443924323?e=1702512000&v=beta&t=u_rcUlYyJ0CvqL1gcM1a1V1kLmz5kJJvkGxXIzSgNiU" alt="Start Gjøvik Logo">
 
-**Title:** IT Leader <br>
+**Duration:** June,2023 ➡️ _now_ <br>
 **Description:** Took the initiative to create the website repository and effectively managed the IT team for the student organization. 
 
 <details>
@@ -24,10 +24,10 @@ I'm Kjetil Indrehus!
 </details>
 
 <!-- Bekk Consulting AS -->
-### Consultant and Software Developer Intern, Bekk Consulting AS, 2023
+### Software Developer Summer Intern, Bekk Consulting AS
 <img align="left" width="50" height="50" src="https://media.licdn.com/dms/image/D4D0BAQFnoSc3jMKrOA/company-logo_200_200/0/1693900329251?e=1702512000&v=beta&t=IeJ89VXw1dunInMUXzh84feRUcTO_Dw92hk1Sh5VZ-s" alt="Bekk Logo">
 
-**Title:** Consultant and Software Developer Intern <br>
+**Duration:** June,2023 ➡️ Juli,2023 <br>
 **Description:** Worked for NAV creating a change submission system using Remix, Sanity, React and Typescript. 
 
 <details>
@@ -48,7 +48,7 @@ I'm Kjetil Indrehus!
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-weld.vercel.app?user=KjetilIN&theme=black-ice)](https://git.io/streak-stats)
 
 
