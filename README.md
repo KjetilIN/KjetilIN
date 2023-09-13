@@ -18,7 +18,7 @@ I'm Kjetil Indrehus!
 
 | Tittle      | GitHub Repository                                    |
 |-----------------|------------------------------------------------------|
-| Website        | [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen?logo=github)]((https://github.com/IT-Start-Gjovik/startgjovik_website))  |
+| Website        | [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-brightgreen?logo=github)](https://github.com/IT-Start-Gjovik/startgjovik_website)  |
 
 
 </details>
