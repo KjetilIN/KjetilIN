@@ -8,7 +8,7 @@ My name is Kjetil Indrehus! 😎
 
 📍 To get started, I recommend checking out my pinned repositories, where you'll find some of my standout work and projects that I'm particularly proud of.
 
-🌟 Thanks for dropping by, and I hope you find something interesting in my codebase. Don't hesitate to reach out if you have any questions or just want to connect! Let's build cool things together! 🚧👷‍♂️
+🌟 Thanks for dropping by, and I hope you find something interesting on my github account. Don't hesitate to reach out if you have any questions or just want to connect!
 
 
 ### 📊 GitHub Stats:
