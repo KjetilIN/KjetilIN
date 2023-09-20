@@ -8,6 +8,11 @@ My name is Kjetil Indrehus! 😎
 
 📍 To get started, I recommend checking out my pinned repositories, where you'll find some of my standout work and projects that I'm particularly proud of.
 
+💼 Starting from the academic year 2023/24, I have taken up the role of **IT Lead** at [Start Gjøvik](https://startgjovik.no/), where I actively contribute to the organization's technology initiatives.
+I'm also proud to have initiated and been the original creator of the website's repository, which you can explore here: 
+
+[![Start Gjøvik Website Repository](https://img.shields.io/badge/Start%20Gjøvik%20Website-Repository-brightgreen)](https://github.com/IT-Start-Gjovik/startgjovik_website)
+
 🌟 Thanks for dropping by, and I hope you find something interesting on my github account. Don't hesitate to reach out if you have any questions or just want to connect!
 
 
